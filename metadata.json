@@ -1,0 +1,8 @@
+{
+  "name": "Sorteo Mundial 2026",
+  "description": "Aplicación interactiva premium para realizar el sorteo de equipos del Mundial 2026 entre 16 participantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
